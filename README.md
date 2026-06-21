@@ -188,11 +188,11 @@ The project follows a **Star Schema Architecture**.
 
 ### Data Model
 
-![Data Model](Screenshots/Data_Model.png)
+![Data Model](Data_Model.png)
 
 ### Dashboard Overview
 
-![Overview Dashboard](Screenshots/Overview.png)
+![Overview Dashboard](Overview_Dashboard.png)
 
 ---
 
