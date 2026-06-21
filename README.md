@@ -1,4 +1,4 @@
-# 📦 Supply Chain & Logistics Dashboard | Power BI
+# 📦  Samsung Supply Chain & Logistics Dashboard | Power BI
 
 ## 📖 Project Overview
 
